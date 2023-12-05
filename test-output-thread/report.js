@@ -1,0 +1,4 @@
+$(document).ready(function() {
+CucumberHTML.timelineItems.pushArray([{"id":"8160adb9-d6e9-4b5a-9cea-740351b97376","feature":"Login functionality","scenario":"To test the login functionality of demowebshop page","start":1701706277718,"group":1,"content":"","tags":"","end":1701706286942,"className":"passed"},{"id":"c1a4e5e7-ce10-44d9-9c66-323e6f864051","feature":": Search functionality","scenario":"To test the search functionality of demowebshop page","start":1701706286970,"group":1,"content":"","tags":"","end":1701706302109,"className":"passed"}]);
+CucumberHTML.timelineGroups.pushArray([{"id":1,"content":"Thread[main,5,main]"}]);
+});
